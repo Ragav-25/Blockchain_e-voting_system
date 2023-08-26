@@ -1,0 +1,5 @@
+1. Python==3.7
+2. Django Web Framework==3.0.3
+3. Bootstrap==4
+4. DB SQLite==3
+5. HTML==5
